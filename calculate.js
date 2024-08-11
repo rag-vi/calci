@@ -37,5 +37,5 @@ else if(caluculator==4){
 console.log("Here is dvision of  x and y ", division(num1,num2));}
 else
 {
-    console.log("nott found");
+    console.log("not found");
 }
